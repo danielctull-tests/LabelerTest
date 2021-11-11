@@ -4,6 +4,9 @@
 noemoji:
 - Sources/Core**
 
+singlestar:
+- Sources/Core*
+
 test:
 - Tests/*
 
