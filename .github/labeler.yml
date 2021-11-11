@@ -1,0 +1,11 @@
+🤓 Core Change:
+- Sources/Core**
+
+noemoji:
+- Sources/Core**
+
+test:
+- Tests/*
+
+test2:
+- Tests/**
